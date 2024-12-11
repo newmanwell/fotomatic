@@ -1,0 +1,3 @@
+This is a codecademy off platform project that has many CSS problems and I am taked with making look more like the design spec. I am fixing one section at a time. 
+
+* Here's the completed spec: [Fotomatic](https://static-assets.codecademy.com/Paths/full-stack-career-journey/Fotomatic/fotomatic_spec_landing_v3_.png?_gl=1*h3spko*_gcl_au*MjQwMjkzODkyLjE3MzIxNDM1MTk.*_ga*NzUwMTg4NTQ0LjE3MjUzODYyOTY.*_ga_3LRZM6TM9L*MTczMzk0MzQyNS41NS4xLjE3MzM5NDM4MjUuMjcuMC4w)
